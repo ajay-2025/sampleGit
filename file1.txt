@@ -1,5 +1,0 @@
-My first file file1.txt
-Editing my first file
-file1.txt edited again
-editing for staged changes
-
