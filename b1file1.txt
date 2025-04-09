@@ -1,1 +1,2 @@
 created a new file b1file1.txt in new branch b1
+edited by developer 2
